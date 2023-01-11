@@ -86,6 +86,48 @@ export default function Main() {
             </ul>
 
           </div>
+          <div>
+            <h5>Definitions & Interpretation</h5>
+            <p>In the following Terms and Conditions of sale, unless the context requires otherwise</p>
+            <ul>
+              <li>(a) "Shop" means Shop Pty Ltd ABN 11 222 333 444;</li>
+              <li>(b) "Customer" means the person or corporation placing an order for the purchase of goods or services from Shop;</li>
+              <li>(c) "Products" means any goods, materials, equipment or services provided to the Customer by Shop;</li>
+              <li>(d) if the Customer comprises more than one person, each of those person’s liability is joint and several;</li>
+              <li>(e) references to a party or a person includes any form of entity and their respective successors, assigns and representatives; </li>
+              <li>(f) for all periods and times specified in clauses 5 and 11, time is of the essence; and</li>
+              <li>(g) all references to currency are references to Australian dollars. </li>
+            </ul>
+
+          </div>
+          <div>
+            <h5>Definitions & Interpretation</h5>
+            <p>In the following Terms and Conditions of sale, unless the context requires otherwise</p>
+            <ul>
+              <li>(a) "Shop" means Shop Pty Ltd ABN 11 222 333 444;</li>
+              <li>(b) "Customer" means the person or corporation placing an order for the purchase of goods or services from Shop;</li>
+              <li>(c) "Products" means any goods, materials, equipment or services provided to the Customer by Shop;</li>
+              <li>(d) if the Customer comprises more than one person, each of those person’s liability is joint and several;</li>
+              <li>(e) references to a party or a person includes any form of entity and their respective successors, assigns and representatives; </li>
+              <li>(f) for all periods and times specified in clauses 5 and 11, time is of the essence; and</li>
+              <li>(g) all references to currency are references to Australian dollars. </li>
+            </ul>
+
+          </div>
+          <div>
+            <h5>Definitions & Interpretation</h5>
+            <p>In the following Terms and Conditions of sale, unless the context requires otherwise</p>
+            <ul>
+              <li>(a) "Shop" means Shop Pty Ltd ABN 11 222 333 444;</li>
+              <li>(b) "Customer" means the person or corporation placing an order for the purchase of goods or services from Shop;</li>
+              <li>(c) "Products" means any goods, materials, equipment or services provided to the Customer by Shop;</li>
+              <li>(d) if the Customer comprises more than one person, each of those person’s liability is joint and several;</li>
+              <li>(e) references to a party or a person includes any form of entity and their respective successors, assigns and representatives; </li>
+              <li>(f) for all periods and times specified in clauses 5 and 11, time is of the essence; and</li>
+              <li>(g) all references to currency are references to Australian dollars. </li>
+            </ul>
+
+          </div>
         </div>
         <div className="btn">
           {showTopBtn && (

@@ -16,9 +16,8 @@ ul{
   margin-top: 1rem;
 }
 .btn{
-  position: fixed;
-  right: 15px; 
-  bottom: 2rem;
+ margin-left: 65rem;
+
   button{
     width: 2.75rem;
     height: 2.75rem;
@@ -30,6 +29,8 @@ ul{
     background: #FFFFFF;
     border: 1px solid #FF1400;
     border-radius: 4px;
+    
+  
   }
 }
 `

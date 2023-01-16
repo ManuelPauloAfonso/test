@@ -136,6 +136,6 @@ export default function Main() {
         </div>
       </div>
 
-    </Container>
+    </Container >
   )
 }
